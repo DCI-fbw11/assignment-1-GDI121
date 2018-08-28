@@ -1,0 +1,16 @@
+table, th, td{
+}
+table {
+  width:100%;
+}
+th {
+  text-align:left;
+}
+.Black{
+  background-color:black;
+  color:white;
+  font-size:20px;
+}
+.White{
+  font-size:20px;
+}
